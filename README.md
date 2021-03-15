@@ -1,4 +1,4 @@
-# U-weather
+# U-Weather
 
 ## Sobre o projeto
 
@@ -8,10 +8,10 @@ O app utiliza o GPS do aparelho para mostrar os dados de acordo com a localizaç
 
 ## Layout
 
-![](https://github.com/uliwill/assets/blob/main/uweather001.png)
-![](https://github.com/uliwill/assets/blob/main/uweather002.png)
-![](https://github.com/uliwill/assets/blob/main/uweather003.png)
-![](https://github.com/uliwill/assets/blob/main/uweather004.png)
+![](https://github.com/uliwill/assets/blob/main/uweather-git001.png)
+![](https://github.com/uliwill/assets/blob/main/uweather-git002.png)
+![](https://github.com/uliwill/assets/blob/main/uweather-git003.png)
+![](https://github.com/uliwill/assets/blob/main/uweather-git004.png)
 
 ## Tecnologias utilizadas
 
